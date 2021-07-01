@@ -1,4 +1,4 @@
-https://docs.microsoft.com/de-de/azure/devops/pipelines/create-first-pipeline?view=azure-devops&tabs=javascript%2Ctfs-2018-2%2Cbrowser
+[![Build Status](https://dev.azure.com/max0989/pipelines-javascript/_apis/build/status/L1stDev.pipelines-javascript?branchName=master)]
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
